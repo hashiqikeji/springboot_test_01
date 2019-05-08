@@ -31,10 +31,7 @@ public class HelloWorldMainApplication {
 
         System.out.println("第12次提交 副本");
 
-
-        System.out.println("第13次 主");
-
-        System.out.println("更新后提交");
+        System.out.println("第14次 副本");
 
 
     }
