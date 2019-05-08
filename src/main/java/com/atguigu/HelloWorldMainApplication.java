@@ -28,5 +28,8 @@ public class HelloWorldMainApplication {
         System.out.println("第10次 主");
 
         System.out.println("第11次提交 副本" );
+
+        System.out.println("第12次提交 副本");
+
     }
 }
